@@ -1,5 +1,6 @@
 {
   "redirects": [
+    { "source": "/", "destination": "/bonus", "permanent": false },
     { "source": "/bonus", "destination": "/bonus-liberdade-financeira-karol.pdf", "permanent": false }
   ]
 }
